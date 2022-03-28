@@ -21,7 +21,6 @@ const displayParkingTables = (parkingsData) => {
 }
 
 const sendNewParkingData = (data) => {
-    console.log('button was clicked')
     fetch('/newgeo', {
         method: 'POST',
         headers: {
@@ -32,7 +31,6 @@ const sendNewParkingData = (data) => {
     })
         .then(function (response) {
             if (response.ok) {
-                console.log('New parking was recorded')
                 window.location.reload()
                 return
             }
