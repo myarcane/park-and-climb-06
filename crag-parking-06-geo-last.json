@@ -1,7 +1,1 @@
-[
-    {
-        "parking": "Peillon",
-        "geo": { "lat": 43.78257, "lng": 7.39796 },
-        "crags": "Baux Roux, Gros Bernard, Chez Pierrot, Derrière le bloc, Monte Grosso, Chez Réb"
-    }
-]
+[{"parking":"Peillon","geo":{"lat":43.78257,"lng":7.39796},"crags":"Baux Roux, Gros Bernard, Chez Pierrot, Derrière le bloc, Monte Grosso, Chez Réb"},{"parking":"Théoule-sur-mer","geo":{"lat":43.50706,"lng":6.93531},"crags":"Rocher des monges"}]
