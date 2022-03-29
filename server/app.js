@@ -9,7 +9,7 @@ const app = express()
 
 const GITHUB_OWNER = 'myarcane'
 const GITHUB_REPO = 'park-and-climb-06'
-const JSON_PATH = 'crag-parking-06-geo-last.json'
+const JSON_PATH = 'crag-parking-06-83-geo-last.json'
 
 const GITHUB_TOKEN = process.env.PARK_AND_CLIMB_GITHUB_TOKEN
 const GITHUB_EMAIL = process.env.GITHUB_EMAIL
